@@ -1,0 +1,3 @@
+gabriel,1234,MAJOR
+rui,1234,MAJOR
+nome,pin,TENENTE
